@@ -102,7 +102,7 @@ elseif &t_Co > 255
     hi Constant     ctermfg=DarkRed   ctermbg=NONE       cterm=none
     hi String       ctermfg=DarkRed   ctermbg=NONE       cterm=none
     hi Identifier   ctermfg=DarkBlue  ctermbg=NONE       cterm=none
-    hi Statement    ctermfg=79        ctermbg=NONE       cterm=none
+    hi Statement    ctermfg=29        ctermbg=NONE       cterm=none
     hi PreProc      ctermfg=DarkCyan  ctermbg=NONE       cterm=none
     hi Type         ctermfg=DarkBlue  ctermbg=NONE       cterm=none
     hi Special      ctermfg=DarkCyan  ctermbg=NONE       cterm=none
